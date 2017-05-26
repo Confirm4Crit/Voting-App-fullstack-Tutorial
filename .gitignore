@@ -29,6 +29,7 @@ jspm_packages
 
 # Removing VSCode settings
 .vscode
+.idea
 
 # Optional npm cache directory
 .npm
