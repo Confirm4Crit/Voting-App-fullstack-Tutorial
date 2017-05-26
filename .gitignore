@@ -27,6 +27,9 @@ build/Release
 node_modules
 jspm_packages
 
+# Removing VSCode settings
+.vscode
+
 # Optional npm cache directory
 .npm
 
